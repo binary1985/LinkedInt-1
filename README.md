@@ -4,8 +4,11 @@ Original Scraper by Danny Chrastil (@DisK0nn3cT): https://github.com/DisK0nn3cT/
 
 Modified by @vysecurity
 
+Updated to Python3 by @joshuaplatz
+
 # Installation
 ```
+sudo apt install python3-pip
 pip install -r requirements.txt
 ```
 
